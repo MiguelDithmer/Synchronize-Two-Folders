@@ -1,2 +1,4 @@
-# Synchronize-Two-Folders
-Synchronize-Two-Folders
+usage:
+
+dotnet TestTask.dll  <sourcePath> <replicaPath> <logFilePath> <syncIntervalInSeconds>
+
