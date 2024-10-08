@@ -1,4 +1,8 @@
 usage:
 
-dotnet TestTask.dll  <sourcePath> <replicaPath> <logFilePath> <syncIntervalInSeconds>
+run console app
+ <sourcePath>
+ <replicaPath>
+ <logFilePath>
+ <syncIntervalInSeconds>
 
